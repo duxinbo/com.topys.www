@@ -1,0 +1,93 @@
+.topnav{
+    width: 1084px;
+    text-align: center;
+    line-height: 70px;
+    font-weight: 700;
+
+    box-sizing: border-box;
+}
+.topnav span{
+    font-weight: 700;
+    font-size: 32px;
+    padding-right: 220px;
+}
+.topnav-left{
+    float: left;
+    height: 17px;
+    line-height: 17px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+.topnav-left a{
+    float: left;
+    padding:30px 18px 23px 18px;
+}
+.topnav-left a:first-child{
+    padding: 30px 26px 23px 0px;
+}
+.topnav-right{
+    float: right;
+    height: 22px;
+    line-height: 22px;
+}
+.topnav-right-a{
+    float: left;
+    padding: 18px 28px 20px 0px;
+}
+.topnav-right-zi{
+    float: right;
+    border: 1px solid rgb(140, 139, 140);
+    font-size: 14px;
+    padding:7px;
+    margin-left: 23px;
+}
+.box-top{
+    padding-left: 170px;
+}
+.box-top a{
+    padding: 14px 40px 42px 38px;
+}
+.box-top-img img{
+    width: 1055px;
+}
+.four-img{
+    float: left;
+    padding: 15px;
+}
+.four-img :first-child{
+    padding: 0px 15px 0px -15px;
+}
+.four-img :last-child{ 
+    padding: 0px 0px 0px 15px;
+}
+.editor{
+    clear: both;
+    text-align: center;
+    line-height: 70px;
+    font-weight: 700;
+    font-size: 26px;
+}
+.cover{
+    float: left;
+}
+.cover-span{
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

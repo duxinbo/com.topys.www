@@ -68,26 +68,49 @@
     font-size: 26px;
 }
 .cover{
+    width: 340px;
+    height: 470px;
     float: left;
 }
-.cover-span{
-    display: block;
+.cover-one{
+    float: left ;
+    color: rgb(172, 170, 173);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.two{
+    float: left;
+    display: block;
+    font-size: 18px;
+    font-weight: 700;
+}
+.three{
+    color: rgb(172, 170, 173);
+    font-size: 14px;
+}
+.user{
+    color: rgb(172, 170, 173);
+    font-size: 14px;
+    float: left;
+}
+.right-talk{
+    float: right;
+    color: rgb(172, 170, 173);
+    font-size: 14px;
+}
+/* 右 */
+.coverl{
+    width: 340px;
+    height: 460px;
+    float: right;
+}
+.coverl-nav{
+}
+.coverl-nav-left{
+    float: left;
+    font-size: 18px;
+    font-weight: 700;
+}
+.converl-nav-right{
+    font-size: 18px;
+    color: rgb(210, 210, 210);
+    float: right;
+}

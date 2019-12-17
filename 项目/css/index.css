@@ -118,4 +118,9 @@
     height: 480px;
     background: pink;
 }
-
+.esd{
+    line-height:87px ;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+}

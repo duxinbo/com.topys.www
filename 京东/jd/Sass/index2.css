@@ -1,5 +1,5 @@
 .top-nav {
-  position: relative;
+  position: fixed;
   background-color: red;
   width: 100%;
   height: 40px;
@@ -12,31 +12,15 @@
   margin-left: 90px;
 }
 
-.top-nav a {
-  position: absolute;
-  right: 7px;
-  top: -4px;
-  color: #fff;
-}
-
-.top-nav a i {
+.top-nav span :nth-child(1) {
   display: block;
-}
-
-.top-nav a i .jd {
   position: absolute;
-  background-image: url(../images/jd-sprites.png);
-  width: 119px;
-  height: 280px;
-  margin-left: 2px;
-  margin-top: -218px;
+  width: 100px;
+  height: 100px;
 }
 
-.top-nav a i .serch {
-  background-image: url(../images/jd-sprites.png);
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
+.top-nav span :nth-child(1) i :nth-child(1) {
+  background-color: green;
 }
 
 ul {

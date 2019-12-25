@@ -1,0 +1,29 @@
+body{}
+.topnav{
+    height: 44px;
+    background-color: sandybrown;
+}
+.topnav-div{
+    float: left;
+    color: #fff;
+}
+.topnav-div-an{
+    background-image: url(../1.png);
+}
+.topnav-div-span{
+    font-size: 18px;
+}
+main{
+    background-color: springgreen;
+}
+.main-top{
+    height: 43px;
+}
+.main-top-left{
+    float: left;
+    font-weight: 700;
+}
+.main-top-right{
+    float: right;
+    color: azure;
+}

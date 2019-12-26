@@ -1,126 +1,15 @@
-.topnav{
-    width: 1084px;
-    text-align: center;
-    line-height: 70px;
-    font-weight: 700;
-
-    box-sizing: border-box;
+.top{
+  height: 109px;
+  width: 100%;
+  /* background-color: blue; */
 }
-.topnav span{
-    font-weight: 700;
-    font-size: 32px;
-    padding-right: 220px;
+.top-nav{
+  height: 60px;
+  width: 100%;
+  /* background-color: blue; */
 }
-.topnav-left{
-    float: left;
-    height: 17px;
-    line-height: 17px;
-    box-sizing: border-box;
-    font-size: 14px;
-}
-.topnav-left a{
-    float: left;
-    padding:30px 18px 23px 18px;
-}
-.topnav-left a:first-child{
-    padding: 30px 26px 23px 0px;
-}
-.topnav-right{
-    float: right;
-    height: 22px;
-    line-height: 22px;
-}
-.topnav-right-a{
-    float: left;
-    padding: 18px 28px 20px 0px;
-}
-.topnav-right-zi{
-    float: right;
-    border: 1px solid rgb(140, 139, 140);
-    font-size: 14px;
-    padding:7px;
-    margin-left: 23px;
-}
-.box-top{
-    padding-left: 170px;
-}
-.box-top a{
-    padding: 14px 40px 42px 38px;
-}
-.box-top-img img{
-    width: 1055px;
-}
-.four-img{
-    float: left;
-    padding: 15px;
-}
-.four-img :first-child{
-    padding: 0px 15px 0px -15px;
-}
-.four-img :last-child{ 
-    padding: 0px 0px 0px 15px;
-}
-.editor{
-    clear: both;
-    text-align: center;
-    line-height: 70px;
-    font-weight: 700;
-    font-size: 26px;
-}
-.cover{
-    width: 340px;
-    height: 470px;
-    float: left;
-}
-.cover-one{
-    float: left ;
-    color: rgb(172, 170, 173);
-}
-.two{
-    float: left;
-    display: block;
-    font-size: 18px;
-    font-weight: 700;
-}
-.three{
-    color: rgb(172, 170, 173);
-    font-size: 14px;
-}
-.user{
-    color: rgb(172, 170, 173);
-    font-size: 14px;
-    float: left;
-}
-.right-talk{
-    float: right;
-    color: rgb(172, 170, 173);
-    font-size: 14px;
-}
-/* 右 */
-.coverl{
-    width: 340px;
-    height: 460px;
-    float: right;
-}
-
-.coverl-nav-left{
-    float: left;
-    font-size: 18px;
-    font-weight: 700;
-}
-.converl-nav-right{
-    font-size: 18px;
-    color: rgb(210, 210, 210);
-    float: right;
-}
-.edit{
-    width: 360px;
-    height: 480px;
-    background: pink;
-}
-.esd{
-    line-height:87px ;
-    font-size: 18px;
-    text-align: center;
-    font-weight: 700;
+.top-nav-left{
+  height: 60px;
+  float: left;
+  background-color: brown;
 }

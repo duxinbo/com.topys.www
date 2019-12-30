@@ -1,15 +1,6 @@
-.top{
-  height: 109px;
-  width: 100%;
-  /* background-color: blue; */
+hearder{
+  list-style-type: none;
 }
-.top-nav{
-  height: 60px;
-  width: 100%;
-  /* background-color: blue; */
-}
-.top-nav-left{
-  height: 60px;
-  float: left;
-  background-color: brown;
+ul{
+  list-style-type: none;
 }

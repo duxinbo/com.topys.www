@@ -1,6 +1,24 @@
-hearder{
-  list-style-type: none;
+.hearder{
+height: 44px;
+background-color: blue;
 }
 ul{
   list-style-type: none;
+  display: block;
 }
+li{
+  float: left;
+}
+.center{
+  background-color: blueviolet;
+  position: relative;
+  float: left;
+  text-align: center;
+}
+.qwe{
+  float: right;
+}
+.qwe i{
+  float: left;
+}
+

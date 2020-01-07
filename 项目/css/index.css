@@ -33,3 +33,45 @@ li a{
   display: block;
   border: 1px solid black;
 }
+
+
+
+
+
+
+.nav{
+  width: 100%;
+  height: 66px;
+  font-size: 14px;
+  background-color: blueviolet;
+  position: relative;
+  line-height: 60px;
+}
+.left-nav{
+  position: absolute;
+  float: left;
+  height: 44px;
+}
+li{
+  float: left;
+}
+li a{
+  display: block;
+  text-align: center;
+  line-height: 44px;
+}
+.center{
+  display: block;
+  text-align: center;
+}
+.chart{
+  float: right;
+}
+.chart li{
+  float: left;
+}
+.chart a{
+  display: block;
+  border: 1px solid black;
+}
+
